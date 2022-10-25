@@ -1,0 +1,5 @@
+{
+    "default": {
+        "mujoco": { "baseline": "2.3.0", "port-version": 0 }
+    }
+}

@@ -1,0 +1,6 @@
+{
+    "name": "mujoco",
+    "version": "2.3.0",
+    "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator",
+    "homepage": "https://github.com/pmh5050/mujoco"
+}
